@@ -8,5 +8,5 @@ This site allows the user to create encoded messages using either the Caesar Shi
 
 [Link to try out the ciphers](https://jduffey1990.github.io/decoder-ring/)
 
-![caesar](decoder-ring/images/caesar.png)
+![caesar](/images/caesar.png)
 
