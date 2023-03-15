@@ -10,3 +10,11 @@ This site allows the user to create encoded messages using either the Caesar Shi
 
 ![caesar](/images/caesar.png)
 
+
+
+![polybius](/images/Polybius.png)
+
+
+
+![alphabet](/images/Alphabet.png)
+
